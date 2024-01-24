@@ -7,7 +7,7 @@
 
 [DEMO](https://evgenywas.github.io/Simple-Landing-Page/)
 
-## Previe
 
-![Preview](/simple-landing-page-dark-preview.jpg)
+
+
 
